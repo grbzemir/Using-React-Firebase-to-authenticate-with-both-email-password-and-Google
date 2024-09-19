@@ -1,0 +1,12 @@
+.home {
+    display: Flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    height: 80vh;
+}
+
+.home span {
+    font-weight: bold;
+    margin-left: 10px;
+}
